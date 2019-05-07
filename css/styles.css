@@ -34,7 +34,7 @@ a:hover {
 
 span {
 	margin-bottom: 10px;
-	font-size: 22px;
+	font-size: 15px;
 	line-height: 40px;
 }
 
@@ -52,5 +52,4 @@ span.highlight:hover {
 
 footer {
     border-top: 2px solid #d5d5d5;
-    font-size: .10em;
 }
