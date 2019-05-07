@@ -32,6 +32,10 @@ a:hover {
 	text-align: center;
 }
 
+p {
+	font-size: 22px;	
+}
+
 span {
 	margin-bottom: 10px;
 	font-size: 15px;
