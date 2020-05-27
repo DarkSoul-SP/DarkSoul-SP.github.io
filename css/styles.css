@@ -43,7 +43,7 @@ span {
 }
 
 span.highlight {
-	background-color: darkred;
+	background-color: green;
 	color: white;
 	transition: 0.3s;
 }
